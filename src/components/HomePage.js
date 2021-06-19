@@ -64,6 +64,7 @@ const MicIcon = styled.div`
 
   svg{
       vertical-align:middle;
+      cursor:pointer;
   }
 `;
 const ButtonSection = styled.div`
